@@ -1,8 +1,8 @@
 # About Me:
 Hey there, I'm Luka! <br>I'm a Computer Science student from Georgia with a passion for turning ideas into reality. I enjoy the challenge of solving problems and the satisfaction of building something that works. I'm currently exploring the worlds of front-end and software development. I’m always open to collaborating on interesting projects and connecting with other developers.
 # Projects:
-Georgian Map distance Calculator: https://gmdc.netlify.app/ /n
-Simple chatbot: chatbotluka.netlify.app
+#### Georgian Map distance Calculator: https://gmdc.netlify.app/
+#### Simple chatbot: https://chatbotluka.netlify.app
 
 # First Project:
 https://simplegamet.netlify.app/
